@@ -1,0 +1,38 @@
+body {
+
+}
+
+.calculadora {
+    background: #f0932b;
+    margin-top: 50px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #000;
+}
+
+.resultado {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border: solid 1px #000;
+    box-shadow: 1px 1px 1px #000;
+}
+
+
+.btn {
+    width: 60px;
+    height: 50px;
+    margin: 5px;
+    box-shadow: 1px 1px 1px #000;
+}
+
+.botao-horizontal {
+    width: 130px;
+}
+
+.botao-vertical {
+    height: 110px;
+}
+
